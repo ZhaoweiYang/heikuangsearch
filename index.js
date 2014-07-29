@@ -20,7 +20,7 @@ search = function(site,url) {
 	});
 }
 search("#baidu","http://www.baidu.com/s?ie=UTF-8&wd=");
-search("#google","http://gu1234.com/search?site=&source=hp&q=");
+search("#google","http://www.gu1234.com/search?hl=zh-CN&source=hp&q=");
 search("#xiami","http://www.xiami.com/search?key=");
 search("#youku","http://www.soku.com/search_video/q_");
 search("#souhu","http://news.sogou.com/news?query=");
