@@ -1,0 +1,46 @@
+/*body{
+	background: rgb(238,249,241);
+}*/
+#container{
+	width: 900px;
+	margin:  auto;
+}
+#searchSupplier{
+	padding: 0px;
+	display: none;
+	height: 300px;
+	margin: 0;
+	position: relative;
+}
+#search{
+	outline: none;
+	width: 890px;
+	height: 37px;
+	font-size: 20px;
+	line-height: 25px;
+	padding-left: 5px;
+	margin-top: 300px;
+	background: black;
+	text-align: center;
+	border: 1px solid black;
+}
+#searchSupplier li{
+	list-style: none;
+	position: absolute;
+	bottom: 0;
+	width: 80px;
+	color: white;
+	margin-bottom: 10px;
+}
+#searchSupplier a{
+	text-align: center;
+	display: block;
+	width: 80px;
+	height: 0px;
+	line-height: 50px;
+	float: left;
+	background: black;
+	margin-bottom: 2px;
+	text-decoration: none;
+	color: black;
+}
